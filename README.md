@@ -88,7 +88,7 @@ Please open the **"Project-3-XGBoost-Housing-Price-Prediction.ipynb"** file with
     
 ## Lessons Learned
 
-This is very basic classification problem which could be solved by above mentioned steps in Introduction.
+This is very basic Regression problem which could be solved by above mentioned steps in Introduction.
 
 ## 🚀 About Me
 I'm a DATA SCIENCE enthusiast...
